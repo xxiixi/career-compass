@@ -1,0 +1,7 @@
+Range,Associate_average,Bachelor_average,Master_average,Doctoral_average,Bachelor_min,Associate_min,Master_min,Doctoral_min,Associate_max,Bachelor_max,Master_max,Doctoral_max
+Under 10K,74,26,15,27,43,105,24,30,38,15,11,12
+10-15K,83,58,20,16,70,87,24,14,66,32,13,19
+15-20K,55,44,18,12,63,53,40,23,68,48,12,12
+20-25K,43,53,33,24,44,19,62,36,36,34,16,12
+25-30K,12,26,31,23,32,7,45,34,41,28,14,17
+Over 30K,5,65,155,170,20,1,77,135,23,115,206,200

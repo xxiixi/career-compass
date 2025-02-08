@@ -1,0 +1,1045 @@
+city,average_salary,education,experience,company_size,category
+Shanghai,12.0,Bachelor,3-5,20-99,Backend Development
+Shanghai,42.0,Master,1-3,20-99,AI & Analytics
+Shanghai,14.0,Associate,3-5,100-499,Frontend Development
+Shanghai,18.0,Associate,unlimited,20-99,Backend Development
+Shanghai,15.0,Bachelor,unlimited,over 10000+,Backend Development
+Shanghai,12.0,Associate,3-5,100-499,Backend Development
+Shanghai,14.0,Bachelor,3-5,0-20,Backend Development
+Shanghai,22.0,Bachelor,unlimited,over 10000+,Backend Development
+Shanghai,45.0,Bachelor,3-5,1000-9999,System Admin
+Shanghai,60.0,Master,5-10,500-999,AI & Analytics
+Shanghai,30.0,Bachelor,3-5,100-499,Backend Development
+Shanghai,6.0,Unlimited,unlimited,500-999,System Admin
+Shanghai,16.0,Bachelor,3-5,1000-9999,AI & Analytics
+Shanghai,24.0,Associate,3-5,100-499,Backend Development
+Shanghai,27.0,Bachelor,3-5,100-499,Backend Development
+Shanghai,9.0,Unlimited,unlimited,100-499,Backend Development
+Shanghai,17.0,Bachelor,1-3,0-20,Backend Development
+Shanghai,42.0,Bachelor,5-10,over 10000+,Backend Development
+Shanghai,37.0,Bachelor,3-5,over 10000+,Backend Development
+Shanghai,45.0,Bachelor,3-5,1000-9999,Backend Development
+Shanghai,17.0,Associate,5-10,100-499,Others
+Shanghai,9.0,Bachelor,1-3,100-499,AI & Analytics
+Shanghai,11.0,Unlimited,1-3,0-20,Frontend Development
+Shanghai,15.0,Bachelor,1-3,1000-9999,Others
+Shanghai,45.0,Unlimited,unlimited,over 10000+,Backend Development
+Shanghai,17.0,Associate,3-5,20-99,Backend Development
+Shanghai,45.0,Master,5-10,100-499,AI & Analytics
+Shanghai,20.0,Bachelor,1-3,1000-9999,System Admin
+Shanghai,24.0,Bachelor,unlimited,over 10000+,Backend Development
+Shanghai,30.0,Bachelor,3-5,1000-9999,Backend Development
+Shanghai,35.0,Bachelor,3-5,1000-9999,AI & Analytics
+Shanghai,8.0,Associate,unlimited,0-20,Others
+Shanghai,32.0,Bachelor,5-10,500-999,Backend Development
+Shanghai,12.0,Bachelor,1-3,20-99,Backend Development
+Shanghai,50.0,Bachelor,over 10,1000-9999,AI & Analytics
+Shanghai,27.0,Master,1-3,20-99,AI & Analytics
+Shanghai,30.0,Bachelor,3-5,1000-9999,Backend Development
+Shanghai,22.0,Bachelor,3-5,500-999,Backend Development
+Shanghai,7.0,Associate,1-3,100-499,System Admin
+Shanghai,21.0,Associate,5-10,0-20,Backend Development
+Shanghai,12.0,Bachelor,1-3,500-999,AI & Analytics
+Shanghai,15.0,Bachelor,3-5,100-499,Frontend Development
+Shanghai,27.0,Bachelor,3-5,100-499,Backend Development
+Shanghai,20.0,Bachelor,5-10,20-99,Backend Development
+Shanghai,22.0,Master,unlimited,over 10000+,Backend Development
+Shanghai,15.0,Bachelor,3-5,0-20,Others
+Shanghai,20.0,Bachelor,3-5,20-99,Others
+Shanghai,3.0,Unlimited,unlimited,0-20,Others
+Shanghai,31.0,Doctor,3-5,100-499,Others
+Shanghai,45.0,Unlimited,3-5,1000-9999,Backend Development
+Shanghai,7.0,Associate,unlimited,20-99,Others
+Shanghai,20.0,Bachelor,3-5,100-499,Backend Development
+Shanghai,25.0,Associate,3-5,20-99,Backend Development
+Shanghai,15.0,Bachelor,1-3,0-20,Backend Development
+Shanghai,10.0,Unlimited,5-10,0-20,Others
+Shanghai,14.0,Bachelor,3-5,20-99,Backend Development
+Shanghai,27.0,Bachelor,3-5,over 10000+,AI & Analytics
+Shanghai,25.0,Bachelor,3-5,1000-9999,AI & Analytics
+Shanghai,12.0,Bachelor,1-3,20-99,System Admin
+Shanghai,12.0,Associate,3-5,20-99,Others
+Shanghai,19.0,Bachelor,3-5,20-99,AI & Analytics
+Shanghai,11.0,Bachelor,unlimited,20-99,Frontend Development
+Shanghai,16.0,Bachelor,unlimited,100-499,Others
+Shanghai,22.0,Associate,3-5,0-20,System Admin
+Shanghai,17.0,Unlimited,unlimited,1000-9999,Backend Development
+Shanghai,47.0,Bachelor,5-10,100-499,AI & Analytics
+Shanghai,6.0,Unlimited,1-3,0-20,Others
+Shanghai,10.0,Bachelor,3-5,20-99,Frontend Development
+Shanghai,7.0,Associate,unlimited,20-99,System Admin
+Shanghai,37.0,Bachelor,5-10,100-499,AI & Analytics
+Shanghai,9.0,Associate,1-3,100-499,Backend Development
+Shanghai,45.0,Bachelor,3-5,100-499,Others
+Shanghai,9.0,Unlimited,1-3,0-20,System Admin
+Shanghai,30.0,Bachelor,unlimited,over 10000+,Others
+Shanghai,22.0,Master,unlimited,0-20,Others
+Shanghai,12.0,Bachelor,3-5,100-499,Frontend Development
+Shanghai,12.0,Bachelor,3-5,20-99,System Admin
+Shanghai,16.0,Associate,3-5,over 10000+,System Admin
+Shanghai,9.0,Associate,3-5,0-20,Others
+Shanghai,7.0,Bachelor,unlimited,100-499,System Admin
+Shanghai,30.0,Associate,3-5,100-499,Others
+Shanghai,12.0,Bachelor,3-5,20-99,System Admin
+Shanghai,13.0,Bachelor,1-3,20-99,Others
+Shanghai,5.0,Bachelor,1-3,20-99,Others
+Shanghai,12.0,Bachelor,1-3,20-99,Backend Development
+Shanghai,15.0,Bachelor,3-5,100-499,Others
+Shanghai,20.0,Bachelor,3-5,0-20,Backend Development
+Shanghai,15.0,Bachelor,3-5,500-999,AI & Analytics
+Shanghai,40.0,Bachelor,3-5,1000-9999,System Admin
+Shanghai,17.0,Associate,3-5,20-99,Backend Development
+Shanghai,21.0,Master,5-10,20-99,Backend Development
+Shanghai,16.0,Bachelor,1-3,20-99,Backend Development
+Shanghai,30.0,Bachelor,3-5,over 10000+,Backend Development
+Shanghai,22.0,Master,1-3,0-20,Others
+Shanghai,10.0,Bachelor,3-5,100-499,Others
+Shanghai,70.0,Bachelor,5-10,100-499,System Admin
+Shanghai,8.0,Bachelor,unlimited,0-20,AI & Analytics
+Shanghai,47.0,Bachelor,3-5,500-999,AI & Analytics
+Shanghai,25.0,Bachelor,5-10,500-999,System Admin
+Shanghai,11.0,Bachelor,1-3,0-20,Backend Development
+Shanghai,17.0,Bachelor,5-10,0-20,AI & Analytics
+Shanghai,7.0,Associate,1-3,100-499,System Admin
+Shanghai,42.0,Bachelor,3-5,1000-9999,Others
+Shanghai,8.0,Unlimited,1-3,20-99,AI & Analytics
+Shanghai,12.0,Associate,1-3,20-99,Backend Development
+Shanghai,16.0,Bachelor,unlimited,1000-9999,Backend Development
+Shanghai,22.0,Bachelor,5-10,20-99,Backend Development
+Shanghai,7.0,Associate,1-3,20-99,Backend Development
+Shanghai,6.0,Unlimited,1-3,500-999,System Admin
+Shanghai,20.0,Associate,1-3,0-20,Others
+Shanghai,17.0,Bachelor,3-5,100-499,Backend Development
+Shanghai,30.0,Unlimited,3-5,1000-9999,Others
+Shanghai,16.0,Bachelor,unlimited,20-99,Backend Development
+Shanghai,21.0,Bachelor,3-5,1000-9999,System Admin
+Shanghai,5.0,Bachelor,unlimited,20-99,Backend Development
+Shanghai,4.0,Unlimited,unlimited,0-20,System Admin
+Shanghai,27.0,Bachelor,3-5,1000-9999,AI & Analytics
+Shanghai,22.0,Bachelor,unlimited,over 10000+,Others
+Shanghai,7.0,Associate,unlimited,100-499,Others
+Shanghai,10.0,Bachelor,unlimited,20-99,Backend Development
+Shanghai,8.0,Bachelor,unlimited,0-20,Backend Development
+Shanghai,40.0,Bachelor,3-5,1000-9999,Backend Development
+Shanghai,12.0,Bachelor,unlimited,0-20,Others
+Shanghai,16.0,Associate,5-10,over 10000+,Others
+Shanghai,32.0,Bachelor,over 10,0-20,Backend Development
+Shanghai,16.0,Bachelor,3-5,20-99,Backend Development
+Shanghai,12.0,Bachelor,1-3,20-99,Frontend Development
+Shanghai,30.0,Bachelor,3-5,over 10000+,AI & Analytics
+Shanghai,15.0,Bachelor,1-3,over 10000+,AI & Analytics
+Shanghai,35.0,Master,5-10,1000-9999,AI & Analytics
+Shanghai,16.0,Bachelor,1-3,20-99,Backend Development
+Shanghai,24.0,Bachelor,3-5,1000-9999,AI & Analytics
+Shanghai,21.0,Associate,unlimited,100-499,Backend Development
+Shanghai,45.0,Unlimited,unlimited,100-499,Others
+Shanghai,37.0,Bachelor,3-5,1000-9999,Others
+Shanghai,20.0,Bachelor,5-10,0-20,Backend Development
+Shanghai,12.0,Associate,1-3,20-99,Backend Development
+Shanghai,23.0,Master,unlimited,20-99,Others
+Shanghai,15.0,Master,1-3,100-499,AI & Analytics
+Shanghai,15.0,Bachelor,3-5,100-499,Backend Development
+Shanghai,50.0,Bachelor,5-10,over 10000+,Frontend Development
+Shanghai,21.0,Bachelor,3-5,20-99,Backend Development
+Shanghai,15.0,Bachelor,3-5,20-99,Backend Development
+Shanghai,20.0,Associate,3-5,20-99,System Admin
+Shanghai,50.0,Bachelor,5-10,0-20,Others
+Shanghai,22.0,Bachelor,unlimited,over 10000+,Others
+Shanghai,27.0,Bachelor,unlimited,20-99,Others
+Shanghai,7.0,Unlimited,1-3,20-99,Backend Development
+Shanghai,22.0,Bachelor,3-5,1000-9999,System Admin
+Shanghai,40.0,Bachelor,5-10,over 10000+,AI & Analytics
+Shanghai,7.0,Associate,3-5,20-99,System Admin
+Shanghai,40.0,Bachelor,3-5,over 10000+,AI & Analytics
+Shanghai,17.0,Bachelor,3-5,100-499,Backend Development
+Shanghai,30.0,Bachelor,unlimited,over 10000+,Others
+Shanghai,21.0,Bachelor,3-5,0-20,Others
+Shanghai,16.0,Bachelor,1-3,500-999,Backend Development
+Shanghai,9.0,Bachelor,unlimited,20-99,Backend Development
+Shanghai,21.0,Associate,3-5,500-999,System Admin
+Shanghai,30.0,Bachelor,5-10,1000-9999,Backend Development
+Shanghai,45.0,Master,3-5,1000-9999,AI & Analytics
+Shanghai,30.0,Bachelor,3-5,1000-9999,Others
+Shanghai,25.0,Bachelor,3-5,1000-9999,Others
+Shanghai,18.0,Associate,1-3,20-99,Backend Development
+Shanghai,55.0,Master,3-5,100-499,AI & Analytics
+Shanghai,15.0,Bachelor,5-10,0-20,Backend Development
+Shanghai,9.0,Associate,1-3,500-999,System Admin
+Shanghai,35.0,Unlimited,3-5,20-99,Backend Development
+Shanghai,32.0,Bachelor,5-10,1000-9999,Backend Development
+Shanghai,6.0,Associate,1-3,20-99,Others
+Shanghai,15.0,Bachelor,over 10,100-499,System Admin
+Shanghai,10.0,Bachelor,1-3,20-99,Backend Development
+Shanghai,10.0,Associate,1-3,20-99,Backend Development
+Shanghai,14.0,Bachelor,5-10,0-20,Backend Development
+Shanghai,17.0,Bachelor,3-5,100-499,System Admin
+Shanghai,9.0,Associate,1-3,100-499,System Admin
+Shanghai,45.0,Bachelor,unlimited,over 10000+,Others
+Shanghai,22.0,Bachelor,3-5,20-99,Backend Development
+Shanghai,15.0,Bachelor,3-5,20-99,Backend Development
+Shanghai,10.0,Bachelor,1-3,20-99,Backend Development
+Shanghai,3.0,Bachelor,unlimited,over 10000+,Backend Development
+Shanghai,11.0,Unlimited,unlimited,20-99,Backend Development
+Shanghai,19.0,Bachelor,3-5,500-999,AI & Analytics
+Shanghai,30.0,Master,1-3,100-499,AI & Analytics
+Shanghai,35.0,Bachelor,5-10,100-499,System Admin
+Shanghai,34.0,Bachelor,5-10,500-999,Backend Development
+Shanghai,30.0,Bachelor,1-3,100-499,Others
+Shanghai,9.0,Associate,3-5,1000-9999,System Admin
+Shanghai,12.0,Associate,5-10,100-499,System Admin
+Shanghai,16.0,Associate,1-3,20-99,Backend Development
+Shanghai,22.0,Bachelor,3-5,0-20,Others
+Shanghai,24.0,Unlimited,5-10,20-99,Backend Development
+Shanghai,26.0,Bachelor,3-5,20-99,Backend Development
+Shanghai,12.0,Bachelor,1-3,100-499,AI & Analytics
+Shanghai,40.0,Bachelor,unlimited,20-99,Backend Development
+Shanghai,35.0,Bachelor,1-3,500-999,Others
+Shanghai,25.0,Bachelor,3-5,20-99,System Admin
+Shanghai,9.0,Unlimited,unlimited,0-20,Backend Development
+Shanghai,32.0,Bachelor,5-10,100-499,Backend Development
+Shanghai,35.0,Bachelor,unlimited,1000-9999,Backend Development
+Shanghai,22.0,Bachelor,3-5,20-99,Backend Development
+Shanghai,11.0,Bachelor,5-10,0-20,Backend Development
+Shanghai,30.0,Master,3-5,100-499,AI & Analytics
+Shanghai,30.0,Bachelor,5-10,over 10000+,Backend Development
+Shanghai,12.0,Bachelor,unlimited,20-99,System Admin
+Shanghai,30.0,Bachelor,unlimited,100-499,Others
+Shanghai,20.0,Bachelor,3-5,100-499,Backend Development
+Shanghai,45.0,Bachelor,3-5,over 10000+,Others
+Shanghai,12.0,Associate,1-3,100-499,Backend Development
+Shanghai,15.0,Bachelor,3-5,20-99,Others
+Shanghai,14.0,Bachelor,unlimited,100-499,Others
+Shanghai,19.0,Bachelor,5-10,1000-9999,Backend Development
+Shanghai,10.0,Associate,3-5,20-99,System Admin
+Shanghai,16.0,Bachelor,3-5,over 10000+,System Admin
+Shanghai,25.0,Associate,3-5,100-499,Backend Development
+Shanghai,8.0,Bachelor,unlimited,20-99,System Admin
+Shanghai,30.0,Bachelor,3-5,20-99,Backend Development
+Shanghai,17.0,Bachelor,5-10,1000-9999,Backend Development
+Shanghai,25.0,Associate,5-10,1000-9999,Others
+Shanghai,25.0,Bachelor,5-10,100-499,Backend Development
+Shanghai,42.0,Master,3-5,1000-9999,Others
+Shanghai,20.0,Bachelor,unlimited,100-499,Backend Development
+Shanghai,24.0,Bachelor,3-5,1000-9999,Backend Development
+Shanghai,10.0,Associate,1-3,100-499,System Admin
+Shanghai,45.0,Bachelor,3-5,20-99,System Admin
+Shanghai,15.0,Associate,3-5,100-499,Backend Development
+Shanghai,17.0,Associate,1-3,100-499,Backend Development
+Shanghai,47.0,Bachelor,5-10,over 10000+,Others
+Shanghai,12.0,Bachelor,unlimited,100-499,Backend Development
+Shanghai,18.0,Associate,3-5,20-99,Others
+Shanghai,20.0,Bachelor,3-5,0-20,Backend Development
+Shanghai,10.0,Bachelor,unlimited,100-499,Backend Development
+Shanghai,27.0,Bachelor,3-5,100-499,Others
+Shanghai,12.0,Bachelor,unlimited,20-99,Others
+Shanghai,45.0,Bachelor,3-5,over 10000+,AI & Analytics
+Shanghai,15.0,Associate,3-5,100-499,Backend Development
+Shanghai,19.0,Bachelor,5-10,20-99,Backend Development
+Shanghai,6.0,Associate,unlimited,20-99,System Admin
+Shanghai,37.0,Bachelor,1-3,1000-9999,System Admin
+Shanghai,9.0,Associate,unlimited,0-20,Backend Development
+Shanghai,6.0,Associate,1-3,0-20,System Admin
+Shanghai,17.0,Bachelor,5-10,0-20,Backend Development
+Shanghai,57.0,Unlimited,unlimited,20-99,Backend Development
+Shanghai,6.0,Unlimited,1-3,0-20,Others
+Shanghai,40.0,Unlimited,5-10,over 10000+,Backend Development
+Shanghai,30.0,Bachelor,1-3,1000-9999,AI & Analytics
+Shanghai,20.0,Associate,5-10,100-499,System Admin
+Shanghai,4.0,Unlimited,unlimited,0-20,Others
+Shanghai,37.0,Bachelor,5-10,100-499,Others
+Shanghai,8.0,Associate,1-3,0-20,System Admin
+Shanghai,55.0,Bachelor,5-10,over 10000+,System Admin
+Shanghai,24.0,Bachelor,1-3,20-99,Backend Development
+Shanghai,15.0,Bachelor,3-5,20-99,Others
+Shanghai,32.0,Bachelor,1-3,500-999,System Admin
+Shanghai,37.0,Bachelor,3-5,1000-9999,System Admin
+Shanghai,30.0,Bachelor,unlimited,over 10000+,Others
+Shanghai,10.0,Bachelor,3-5,20-99,Backend Development
+Shanghai,40.0,Bachelor,3-5,100-499,Others
+Shanghai,22.0,Bachelor,3-5,over 10000+,AI & Analytics
+Shanghai,26.0,Bachelor,1-3,0-20,Backend Development
+Shanghai,6.0,Unlimited,1-3,0-20,System Admin
+Shanghai,15.0,Associate,3-5,20-99,Backend Development
+Guangzhou,7.0,Associate,3-5,100-499,System Admin
+Guangzhou,12.0,Unlimited,unlimited,1000-9999,Others
+Guangzhou,20.0,Bachelor,3-5,100-499,Backend Development
+Guangzhou,25.0,Bachelor,3-5,1000-9999,Backend Development
+Guangzhou,17.0,Associate,3-5,0-20,Backend Development
+Guangzhou,20.0,Associate,3-5,20-99,Backend Development
+Guangzhou,5.0,Associate,unlimited,20-99,System Admin
+Guangzhou,5.0,Unlimited,unlimited,20-99,System Admin
+Guangzhou,11.0,Bachelor,1-3,1000-9999,Frontend Development
+Guangzhou,10.0,Associate,1-3,0-20,Backend Development
+Guangzhou,65.0,Bachelor,5-10,0-20,Others
+Guangzhou,17.0,Bachelor,1-3,100-499,Backend Development
+Guangzhou,3.0,Unlimited,unlimited,0-20,Backend Development
+Guangzhou,6.0,Associate,1-3,0-20,System Admin
+Guangzhou,14.0,Bachelor,3-5,20-99,System Admin
+Guangzhou,8.0,Associate,1-3,20-99,Others
+Guangzhou,20.0,Bachelor,1-3,over 10000+,Backend Development
+Guangzhou,12.0,Bachelor,3-5,100-499,Backend Development
+Guangzhou,3.0,Associate,1-3,0-20,System Admin
+Guangzhou,12.0,Bachelor,3-5,20-99,Backend Development
+Guangzhou,27.0,Bachelor,5-10,100-499,Backend Development
+Guangzhou,8.0,Bachelor,1-3,20-99,AI & Analytics
+Guangzhou,16.0,Associate,unlimited,20-99,Backend Development
+Guangzhou,6.0,Bachelor,1-3,20-99,Others
+Guangzhou,3.0,Associate,3-5,20-99,Backend Development
+Guangzhou,10.0,Bachelor,1-3,500-999,System Admin
+Guangzhou,17.0,Bachelor,1-3,100-499,Backend Development
+Guangzhou,36.0,Master,3-5,100-499,AI & Analytics
+Guangzhou,32.0,Bachelor,3-5,100-499,AI & Analytics
+Guangzhou,12.0,Bachelor,1-3,20-99,Others
+Guangzhou,12.0,Bachelor,5-10,500-999,System Admin
+Guangzhou,55.0,Bachelor,3-5,over 10000+,Backend Development
+Guangzhou,16.0,Bachelor,1-3,0-20,Backend Development
+Guangzhou,6.0,Bachelor,unlimited,0-20,Backend Development
+Guangzhou,16.0,Bachelor,1-3,20-99,AI & Analytics
+Guangzhou,32.0,Bachelor,5-10,0-20,Others
+Guangzhou,16.0,Bachelor,3-5,20-99,Frontend Development
+Guangzhou,5.0,Bachelor,unlimited,20-99,Others
+Guangzhou,22.0,Bachelor,1-3,20-99,Backend Development
+Guangzhou,32.0,Associate,1-3,20-99,Others
+Guangzhou,7.0,Associate,1-3,100-499,Backend Development
+Guangzhou,11.0,Bachelor,unlimited,20-99,Backend Development
+Guangzhou,8.0,Associate,1-3,100-499,Backend Development
+Guangzhou,20.0,Bachelor,5-10,500-999,Backend Development
+Guangzhou,25.0,Bachelor,3-5,20-99,Backend Development
+Guangzhou,7.0,Associate,3-5,20-99,System Admin
+Guangzhou,45.0,Bachelor,unlimited,over 10000+,Backend Development
+Guangzhou,25.0,Associate,5-10,20-99,Backend Development
+Guangzhou,20.0,Bachelor,3-5,1000-9999,Backend Development
+Guangzhou,22.0,Bachelor,5-10,100-499,Backend Development
+Guangzhou,10.0,Associate,1-3,20-99,AI & Analytics
+Guangzhou,27.0,Bachelor,5-10,1000-9999,AI & Analytics
+Guangzhou,21.0,Bachelor,3-5,20-99,Backend Development
+Guangzhou,9.0,Associate,1-3,20-99,System Admin
+Guangzhou,14.0,Associate,1-3,100-499,Backend Development
+Guangzhou,,Associate,1-3,20-99,Others
+Guangzhou,10.0,Bachelor,1-3,20-99,System Admin
+Guangzhou,13.0,Associate,1-3,over 10000+,System Admin
+Guangzhou,9.0,Associate,unlimited,20-99,Frontend Development
+Guangzhou,9.0,Associate,1-3,20-99,Backend Development
+Guangzhou,6.0,Associate,1-3,0-20,System Admin
+Guangzhou,17.0,Bachelor,3-5,over 10000+,AI & Analytics
+Guangzhou,8.0,Associate,3-5,20-99,System Admin
+Guangzhou,8.0,Associate,unlimited,0-20,Backend Development
+Guangzhou,12.0,Unlimited,1-3,20-99,Frontend Development
+Guangzhou,4.0,Bachelor,3-5,20-99,Others
+Guangzhou,12.0,Associate,3-5,0-20,Backend Development
+Guangzhou,45.0,Bachelor,5-10,over 10000+,Backend Development
+Guangzhou,32.0,Unlimited,1-3,500-999,Backend Development
+Guangzhou,13.0,Master,unlimited,500-999,AI & Analytics
+Guangzhou,17.0,Associate,3-5,0-20,Backend Development
+Guangzhou,45.0,Bachelor,3-5,1000-9999,AI & Analytics
+Guangzhou,4.0,Associate,3-5,0-20,Backend Development
+Guangzhou,14.0,Bachelor,1-3,0-20,AI & Analytics
+Guangzhou,27.0,Bachelor,1-3,20-99,Backend Development
+Guangzhou,12.0,Associate,1-3,20-99,Backend Development
+Guangzhou,16.0,Associate,3-5,100-499,System Admin
+Guangzhou,9.0,Associate,3-5,100-499,System Admin
+Guangzhou,15.0,Master,1-3,500-999,Backend Development
+Guangzhou,25.0,Bachelor,3-5,20-99,Backend Development
+Guangzhou,21.0,Bachelor,5-10,20-99,Backend Development
+Guangzhou,7.0,Associate,3-5,20-99,Frontend Development
+Guangzhou,55.0,Bachelor,5-10,over 10000+,Others
+Guangzhou,14.0,Bachelor,3-5,20-99,Others
+Guangzhou,15.0,Associate,1-3,20-99,System Admin
+Guangzhou,10.0,Associate,3-5,0-20,Backend Development
+Guangzhou,11.0,Associate,3-5,20-99,Backend Development
+Guangzhou,11.0,Associate,1-3,20-99,Backend Development
+Guangzhou,13.0,Bachelor,5-10,over 10000+,System Admin
+Guangzhou,12.0,Bachelor,3-5,100-499,System Admin
+Guangzhou,17.0,Associate,3-5,20-99,Backend Development
+Guangzhou,15.0,Bachelor,3-5,20-99,System Admin
+Guangzhou,20.0,Bachelor,3-5,100-499,Backend Development
+Guangzhou,21.0,Associate,5-10,100-499,Others
+Guangzhou,42.0,Bachelor,5-10,20-99,Others
+Guangzhou,22.0,Bachelor,3-5,1000-9999,Backend Development
+Guangzhou,3.0,Bachelor,unlimited,20-99,Others
+Guangzhou,8.0,Associate,1-3,0-20,Others
+Guangzhou,14.0,Associate,3-5,over 10000+,Frontend Development
+Guangzhou,10.0,Associate,1-3,20-99,AI & Analytics
+Guangzhou,6.0,Associate,1-3,20-99,System Admin
+Guangzhou,12.0,Bachelor,1-3,100-499,Others
+Guangzhou,10.0,Bachelor,1-3,0-20,System Admin
+Guangzhou,12.0,Associate,1-3,20-99,Backend Development
+Guangzhou,12.0,Bachelor,3-5,100-499,Backend Development
+Guangzhou,17.0,Bachelor,3-5,20-99,Backend Development
+Guangzhou,32.0,Bachelor,3-5,100-499,AI & Analytics
+Guangzhou,16.0,Bachelor,1-3,100-499,Others
+Guangzhou,6.0,Unlimited,1-3,0-20,Others
+Guangzhou,12.0,Bachelor,5-10,20-99,Others
+Guangzhou,17.0,Bachelor,3-5,over 10000+,AI & Analytics
+Guangzhou,12.0,Associate,5-10,500-999,System Admin
+Guangzhou,27.0,Bachelor,5-10,1000-9999,Others
+Guangzhou,14.0,Bachelor,3-5,20-99,Backend Development
+Guangzhou,19.0,Unlimited,5-10,0-20,Backend Development
+Guangzhou,13.0,Bachelor,3-5,1000-9999,AI & Analytics
+Guangzhou,5.0,Unlimited,unlimited,20-99,System Admin
+Guangzhou,13.0,Associate,1-3,1000-9999,System Admin
+Guangzhou,12.0,Bachelor,3-5,0-20,Backend Development
+Guangzhou,17.0,Bachelor,5-10,20-99,Backend Development
+Guangzhou,22.0,Bachelor,5-10,20-99,Backend Development
+Guangzhou,7.0,Associate,1-3,100-499,AI & Analytics
+Guangzhou,17.0,Bachelor,5-10,100-499,Backend Development
+Guangzhou,18.0,Associate,1-3,0-20,Backend Development
+Guangzhou,6.0,Associate,1-3,100-499,System Admin
+Guangzhou,20.0,Associate,3-5,20-99,Backend Development
+Guangzhou,6.0,Associate,unlimited,20-99,System Admin
+Guangzhou,3.0,Unlimited,unlimited,20-99,Others
+Guangzhou,45.0,Bachelor,unlimited,over 10000+,Others
+Guangzhou,16.0,Master,unlimited,20-99,AI & Analytics
+Guangzhou,16.0,Bachelor,3-5,1000-9999,Backend Development
+Guangzhou,20.0,Bachelor,1-3,1000-9999,Backend Development
+Guangzhou,21.0,Associate,3-5,100-499,Backend Development
+Guangzhou,19.0,Bachelor,3-5,20-99,Others
+Guangzhou,15.0,Bachelor,3-5,20-99,Backend Development
+Guangzhou,6.0,Bachelor,1-3,1000-9999,System Admin
+Guangzhou,22.0,Bachelor,3-5,100-499,Backend Development
+Guangzhou,22.0,Bachelor,3-5,500-999,Backend Development
+Guangzhou,4.0,Unlimited,3-5,20-99,Others
+Guangzhou,22.0,Bachelor,3-5,0-20,AI & Analytics
+Guangzhou,12.0,Associate,3-5,20-99,Others
+Guangzhou,16.0,Bachelor,3-5,20-99,Backend Development
+Guangzhou,10.0,Bachelor,1-3,20-99,Others
+Guangzhou,25.0,Bachelor,3-5,100-499,Backend Development
+Guangzhou,20.0,Bachelor,3-5,over 10000+,System Admin
+Guangzhou,12.0,Associate,3-5,20-99,Backend Development
+Guangzhou,15.0,Master,1-3,0-20,Backend Development
+Guangzhou,45.0,Bachelor,3-5,100-499,Others
+Guangzhou,10.0,Associate,unlimited,20-99,Backend Development
+Guangzhou,16.0,Associate,1-3,100-499,Others
+Guangzhou,10.0,Associate,3-5,0-20,Backend Development
+Guangzhou,30.0,Bachelor,unlimited,100-499,AI & Analytics
+Guangzhou,12.0,Bachelor,3-5,0-20,Backend Development
+Guangzhou,16.0,Bachelor,3-5,1000-9999,Backend Development
+Guangzhou,20.0,Bachelor,3-5,20-99,Backend Development
+Guangzhou,5.0,Associate,1-3,0-20,AI & Analytics
+Guangzhou,25.0,Bachelor,5-10,1000-9999,Backend Development
+Guangzhou,20.0,Bachelor,5-10,100-499,Backend Development
+Guangzhou,3.0,Bachelor,unlimited,20-99,AI & Analytics
+Guangzhou,32.0,Bachelor,3-5,500-999,AI & Analytics
+Guangzhou,23.0,Bachelor,3-5,100-499,Backend Development
+Guangzhou,35.0,Bachelor,3-5,20-99,Others
+Guangzhou,22.0,Bachelor,3-5,100-499,AI & Analytics
+Guangzhou,6.0,Unlimited,1-3,20-99,System Admin
+Guangzhou,4.0,Bachelor,unlimited,0-20,Frontend Development
+Guangzhou,10.0,Associate,unlimited,100-499,System Admin
+Guangzhou,12.0,Bachelor,unlimited,over 10000+,Backend Development
+Guangzhou,12.0,Bachelor,3-5,20-99,Others
+Guangzhou,12.0,Bachelor,1-3,100-499,Backend Development
+Guangzhou,12.0,Bachelor,5-10,100-499,Backend Development
+Guangzhou,45.0,Bachelor,unlimited,over 10000+,Backend Development
+Guangzhou,12.0,Bachelor,1-3,20-99,Backend Development
+Guangzhou,16.0,Bachelor,1-3,1000-9999,Others
+Guangzhou,27.0,Bachelor,5-10,100-499,Others
+Guangzhou,12.0,Associate,unlimited,1000-9999,Backend Development
+Guangzhou,19.0,Master,1-3,100-499,AI & Analytics
+Guangzhou,7.0,Bachelor,1-3,0-20,Backend Development
+Guangzhou,12.0,Unlimited,3-5,20-99,Backend Development
+Guangzhou,12.0,Bachelor,1-3,20-99,Backend Development
+Guangzhou,27.0,Bachelor,1-3,100-499,AI & Analytics
+Guangzhou,23.0,Bachelor,5-10,1000-9999,System Admin
+Guangzhou,22.0,Bachelor,unlimited,0-20,Backend Development
+Guangzhou,5.0,Bachelor,unlimited,100-499,AI & Analytics
+Guangzhou,9.0,Associate,1-3,over 10000+,System Admin
+Guangzhou,10.0,Bachelor,1-3,100-499,System Admin
+Guangzhou,9.0,Associate,3-5,20-99,Backend Development
+Guangzhou,15.0,Bachelor,1-3,0-20,Backend Development
+Guangzhou,4.0,Associate,1-3,20-99,Others
+Guangzhou,26.0,Bachelor,5-10,1000-9999,System Admin
+Guangzhou,9.0,Bachelor,unlimited,20-99,Others
+Guangzhou,4.0,Associate,unlimited,500-999,System Admin
+Guangzhou,6.0,Unlimited,1-3,0-20,System Admin
+Guangzhou,30.0,Bachelor,unlimited,1000-9999,Others
+Guangzhou,18.0,Associate,3-5,100-499,Others
+Guangzhou,16.0,Associate,3-5,20-99,Backend Development
+Guangzhou,22.0,Bachelor,1-3,100-499,Backend Development
+Guangzhou,14.0,Bachelor,3-5,20-99,Frontend Development
+Guangzhou,14.0,Associate,3-5,100-499,Backend Development
+Guangzhou,17.0,Bachelor,1-3,20-99,AI & Analytics
+Guangzhou,16.0,Bachelor,3-5,20-99,Backend Development
+Guangzhou,9.0,Bachelor,1-3,20-99,Backend Development
+Guangzhou,9.0,Bachelor,1-3,100-499,Backend Development
+Guangzhou,20.0,Master,1-3,20-99,AI & Analytics
+Guangzhou,12.0,Bachelor,1-3,20-99,System Admin
+Guangzhou,20.0,Bachelor,3-5,100-499,Backend Development
+Guangzhou,20.0,Bachelor,3-5,500-999,Others
+Guangzhou,20.0,Bachelor,3-5,100-499,Backend Development
+Guangzhou,15.0,Bachelor,1-3,500-999,Others
+Guangzhou,23.0,Bachelor,unlimited,100-499,Backend Development
+Guangzhou,13.0,Bachelor,3-5,100-499,AI & Analytics
+Guangzhou,18.0,Bachelor,3-5,1000-9999,System Admin
+Guangzhou,10.0,Associate,1-3,0-20,Backend Development
+Guangzhou,6.0,Unlimited,3-5,0-20,Others
+Guangzhou,23.0,Bachelor,3-5,500-999,Backend Development
+Guangzhou,10.0,Bachelor,3-5,20-99,Frontend Development
+Guangzhou,5.0,Associate,unlimited,0-20,Backend Development
+Guangzhou,30.0,Master,3-5,20-99,AI & Analytics
+Guangzhou,16.0,Bachelor,3-5,20-99,Backend Development
+Guangzhou,16.0,Bachelor,3-5,100-499,Backend Development
+Guangzhou,16.0,Bachelor,3-5,1000-9999,Others
+Guangzhou,11.0,Associate,3-5,1000-9999,Backend Development
+Guangzhou,18.0,Bachelor,1-3,20-99,Backend Development
+Guangzhou,9.0,Associate,1-3,100-499,Backend Development
+Guangzhou,32.0,Doctor,3-5,100-499,AI & Analytics
+Guangzhou,7.0,Unlimited,unlimited,0-20,Others
+Guangzhou,11.0,Associate,1-3,20-99,Others
+Guangzhou,12.0,Bachelor,3-5,20-99,Backend Development
+Guangzhou,10.0,Bachelor,1-3,20-99,Backend Development
+Guangzhou,7.0,Associate,1-3,20-99,Backend Development
+Guangzhou,3.0,Bachelor,unlimited,20-99,Frontend Development
+Guangzhou,5.0,Bachelor,unlimited,0-20,Backend Development
+Guangzhou,22.0,Bachelor,5-10,over 10000+,Others
+Guangzhou,15.0,Bachelor,1-3,0-20,Backend Development
+Guangzhou,25.0,Bachelor,1-3,over 10000+,AI & Analytics
+Guangzhou,15.0,Bachelor,3-5,100-499,Backend Development
+Guangzhou,4.0,Associate,unlimited,100-499,Others
+Guangzhou,12.0,Bachelor,1-3,1000-9999,AI & Analytics
+Guangzhou,8.0,Bachelor,1-3,100-499,AI & Analytics
+Guangzhou,12.0,Bachelor,5-10,20-99,Backend Development
+Guangzhou,15.0,Bachelor,5-10,100-499,Backend Development
+Guangzhou,20.0,Bachelor,3-5,20-99,Others
+Guangzhou,17.0,Bachelor,5-10,20-99,Backend Development
+Guangzhou,10.0,Bachelor,3-5,20-99,AI & Analytics
+Guangzhou,8.0,Associate,3-5,20-99,Backend Development
+Guangzhou,7.0,Associate,1-3,100-499,Others
+Guangzhou,12.0,Bachelor,1-3,20-99,Backend Development
+Guangzhou,25.0,Bachelor,3-5,0-20,Backend Development
+Guangzhou,15.0,Bachelor,3-5,500-999,Backend Development
+Guangzhou,10.0,Associate,3-5,0-20,Backend Development
+Guangzhou,21.0,Bachelor,3-5,over 10000+,Backend Development
+Guangzhou,22.0,Bachelor,unlimited,over 10000+,Backend Development
+Guangzhou,12.0,Bachelor,3-5,1000-9999,System Admin
+Guangzhou,16.0,Bachelor,1-3,20-99,AI & Analytics
+Guangzhou,22.0,Bachelor,3-5,20-99,AI & Analytics
+Guangzhou,10.0,Associate,3-5,1000-9999,Backend Development
+Guangzhou,11.0,Bachelor,5-10,20-99,Others
+Guangzhou,22.0,Bachelor,5-10,100-499,Others
+Guangzhou,26.0,Bachelor,3-5,1000-9999,System Admin
+Guangzhou,10.0,Associate,3-5,100-499,Backend Development
+Guangzhou,15.0,Associate,3-5,1000-9999,Backend Development
+Guangzhou,5.0,Associate,1-3,20-99,System Admin
+Beijing,15.0,Bachelor,3-5,500-999,Backend Development
+Beijing,6.0,Bachelor,unlimited,0-20,System Admin
+Beijing,37.0,Bachelor,3-5,over 10000+,Backend Development
+Beijing,3.0,Bachelor,unlimited,20-99,Frontend Development
+Beijing,26.0,Bachelor,3-5,20-99,Frontend Development
+Beijing,30.0,Master,unlimited,over 10000+,AI & Analytics
+Beijing,47.0,Master,5-10,over 10000+,AI & Analytics
+Beijing,30.0,Bachelor,unlimited,over 10000+,Backend Development
+Beijing,9.0,Bachelor,1-3,0-20,Backend Development
+Beijing,20.0,Bachelor,5-10,100-499,Others
+Beijing,55.0,Master,5-10,500-999,AI & Analytics
+Beijing,50.0,Bachelor,3-5,20-99,Others
+Beijing,90.0,Bachelor,5-10,100-499,AI & Analytics
+Beijing,25.0,Bachelor,3-5,20-99,AI & Analytics
+Beijing,9.0,Bachelor,1-3,20-99,Frontend Development
+Beijing,37.0,Unlimited,3-5,1000-9999,Others
+Beijing,30.0,Bachelor,5-10,20-99,Backend Development
+Beijing,22.0,Associate,1-3,500-999,System Admin
+Beijing,30.0,Bachelor,unlimited,over 10000+,Others
+Beijing,14.0,Bachelor,3-5,100-499,Others
+Beijing,30.0,Bachelor,5-10,100-499,Backend Development
+Beijing,22.0,Bachelor,3-5,100-499,Others
+Beijing,11.0,Bachelor,3-5,100-499,AI & Analytics
+Beijing,30.0,Bachelor,5-10,over 10000+,Others
+Beijing,18.0,Bachelor,1-3,1000-9999,Backend Development
+Beijing,22.0,Bachelor,3-5,100-499,Backend Development
+Beijing,16.0,Bachelor,3-5,100-499,Frontend Development
+Beijing,32.0,Bachelor,3-5,1000-9999,Backend Development
+Beijing,7.0,Associate,1-3,20-99,System Admin
+Beijing,55.0,Bachelor,unlimited,500-999,Others
+Beijing,30.0,Master,3-5,1000-9999,Backend Development
+Beijing,35.0,Bachelor,5-10,1000-9999,Frontend Development
+Beijing,8.0,Bachelor,1-3,20-99,Others
+Beijing,9.0,Bachelor,3-5,0-20,Backend Development
+Beijing,10.0,Bachelor,1-3,20-99,Frontend Development
+Beijing,30.0,Unlimited,unlimited,20-99,Others
+Beijing,15.0,Associate,1-3,20-99,Others
+Beijing,27.0,Doctor,unlimited,100-499,AI & Analytics
+Beijing,30.0,Bachelor,3-5,20-99,AI & Analytics
+Beijing,25.0,Bachelor,3-5,over 10000+,AI & Analytics
+Beijing,32.0,Bachelor,3-5,100-499,Backend Development
+Beijing,22.0,Bachelor,3-5,over 10000+,Others
+Beijing,30.0,Bachelor,5-10,20-99,Frontend Development
+Beijing,8.0,Unlimited,unlimited,0-20,Others
+Beijing,22.0,Master,unlimited,over 10000+,AI & Analytics
+Beijing,45.0,Bachelor,3-5,20-99,AI & Analytics
+Beijing,22.0,Bachelor,3-5,1000-9999,System Admin
+Beijing,20.0,Bachelor,3-5,100-499,System Admin
+Beijing,7.0,Associate,unlimited,0-20,Others
+Beijing,30.0,Bachelor,3-5,1000-9999,Others
+Beijing,25.0,Bachelor,1-3,1000-9999,AI & Analytics
+Beijing,23.0,Bachelor,1-3,500-999,Others
+Beijing,21.0,Bachelor,1-3,1000-9999,AI & Analytics
+Beijing,15.0,Associate,5-10,20-99,Backend Development
+Beijing,12.0,Bachelor,3-5,20-99,Backend Development
+Beijing,17.0,Bachelor,3-5,over 10000+,Others
+Beijing,15.0,Bachelor,1-3,500-999,Others
+Beijing,45.0,Bachelor,5-10,100-499,Others
+Beijing,30.0,Bachelor,3-5,100-499,Others
+Beijing,8.0,Associate,5-10,20-99,Others
+Beijing,40.0,Bachelor,unlimited,over 10000+,AI & Analytics
+Beijing,21.0,Associate,3-5,20-99,Backend Development
+Beijing,7.0,Associate,unlimited,0-20,Backend Development
+Beijing,13.0,Associate,1-3,100-499,Backend Development
+Beijing,22.0,Bachelor,3-5,20-99,Others
+Beijing,18.0,Unlimited,3-5,over 10000+,Frontend Development
+Beijing,7.0,Bachelor,1-3,20-99,System Admin
+Beijing,10.0,Bachelor,1-3,0-20,System Admin
+Beijing,35.0,Bachelor,unlimited,0-20,Backend Development
+Beijing,18.0,Bachelor,3-5,over 10000+,Others
+Beijing,37.0,Bachelor,3-5,20-99,Backend Development
+Beijing,50.0,Bachelor,3-5,500-999,Frontend Development
+Beijing,30.0,Unlimited,unlimited,100-499,AI & Analytics
+Beijing,20.0,Bachelor,5-10,over 10000+,Backend Development
+Beijing,5.0,Associate,3-5,0-20,Others
+Beijing,20.0,Bachelor,1-3,20-99,Others
+Beijing,45.0,Bachelor,5-10,over 10000+,Backend Development
+Beijing,11.0,Bachelor,1-3,20-99,Backend Development
+Beijing,30.0,Bachelor,1-3,20-99,AI & Analytics
+Beijing,30.0,Bachelor,unlimited,500-999,Backend Development
+Beijing,7.0,Associate,unlimited,100-499,Others
+Beijing,40.0,Bachelor,3-5,1000-9999,AI & Analytics
+Beijing,5.0,Associate,unlimited,100-499,System Admin
+Beijing,18.0,Bachelor,1-3,20-99,AI & Analytics
+Beijing,14.0,Bachelor,5-10,1000-9999,System Admin
+Beijing,39.0,Bachelor,3-5,over 10000+,Others
+Beijing,110.0,Master,3-5,20-99,AI & Analytics
+Beijing,31.0,Master,3-5,over 10000+,Backend Development
+Beijing,,Unlimited,unlimited,20-99,Backend Development
+Beijing,15.0,Bachelor,3-5,20-99,Frontend Development
+Beijing,11.0,Bachelor,3-5,0-20,Others
+Beijing,45.0,Bachelor,1-3,0-20,Others
+Beijing,35.0,Bachelor,5-10,100-499,Others
+Beijing,20.0,Bachelor,1-3,20-99,Others
+Beijing,34.0,Bachelor,unlimited,over 10000+,System Admin
+Beijing,14.0,Bachelor,1-3,0-20,Backend Development
+Beijing,22.0,Master,3-5,1000-9999,Frontend Development
+Beijing,35.0,Bachelor,3-5,over 10000+,AI & Analytics
+Beijing,42.0,Master,3-5,over 10000+,AI & Analytics
+Beijing,15.0,Bachelor,3-5,100-499,AI & Analytics
+Beijing,25.0,Bachelor,5-10,100-499,System Admin
+Beijing,22.0,Bachelor,3-5,100-499,Backend Development
+Beijing,45.0,Bachelor,5-10,100-499,Others
+Beijing,22.0,Bachelor,3-5,20-99,Others
+Beijing,20.0,Bachelor,1-3,20-99,AI & Analytics
+Beijing,27.0,Associate,5-10,100-499,System Admin
+Beijing,45.0,Master,3-5,over 10000+,AI & Analytics
+Beijing,32.0,Bachelor,3-5,20-99,AI & Analytics
+Beijing,19.0,Associate,5-10,0-20,Backend Development
+Beijing,25.0,Bachelor,3-5,500-999,Frontend Development
+Beijing,17.0,Bachelor,3-5,20-99,Backend Development
+Beijing,40.0,Bachelor,5-10,0-20,Others
+Beijing,30.0,Bachelor,5-10,20-99,Backend Development
+Beijing,35.0,Bachelor,unlimited,100-499,Others
+Beijing,45.0,Bachelor,5-10,1000-9999,Others
+Beijing,50.0,Bachelor,3-5,0-20,Others
+Beijing,16.0,Bachelor,3-5,20-99,AI & Analytics
+Beijing,11.0,Bachelor,3-5,20-99,Frontend Development
+Beijing,26.0,Bachelor,5-10,100-499,System Admin
+Beijing,30.0,Doctor,unlimited,20-99,AI & Analytics
+Beijing,17.0,Bachelor,5-10,20-99,Others
+Beijing,16.0,Associate,3-5,20-99,Backend Development
+Beijing,9.0,Associate,1-3,20-99,System Admin
+Beijing,30.0,Bachelor,5-10,100-499,Others
+Beijing,14.0,Associate,1-3,over 10000+,Others
+Beijing,2.0,Bachelor,5-10,0-20,Backend Development
+Beijing,17.0,Bachelor,3-5,20-99,Frontend Development
+Beijing,5.0,Associate,1-3,20-99,System Admin
+Beijing,22.0,Bachelor,3-5,100-499,AI & Analytics
+Beijing,9.0,Unlimited,3-5,1000-9999,Backend Development
+Beijing,85.0,Master,5-10,over 10000+,AI & Analytics
+Beijing,20.0,Bachelor,5-10,20-99,Backend Development
+Beijing,16.0,Bachelor,3-5,100-499,Backend Development
+Beijing,12.0,Bachelor,1-3,100-499,System Admin
+Beijing,12.0,Bachelor,unlimited,100-499,Backend Development
+Beijing,15.0,Associate,unlimited,20-99,Backend Development
+Beijing,18.0,Bachelor,3-5,20-99,Backend Development
+Beijing,20.0,Bachelor,3-5,0-20,Frontend Development
+Beijing,30.0,Bachelor,3-5,1000-9999,Backend Development
+Beijing,5.0,Associate,1-3,0-20,System Admin
+Beijing,20.0,Associate,1-3,20-99,Backend Development
+Beijing,25.0,Master,3-5,20-99,Others
+Beijing,8.0,Bachelor,1-3,20-99,Backend Development
+Beijing,37.0,Bachelor,3-5,1000-9999,AI & Analytics
+Beijing,8.0,Bachelor,3-5,100-499,AI & Analytics
+Beijing,12.0,Bachelor,5-10,over 10000+,System Admin
+Beijing,32.0,Bachelor,5-10,20-99,Others
+Beijing,27.0,Bachelor,3-5,100-499,System Admin
+Beijing,19.0,Bachelor,3-5,100-499,Backend Development
+Beijing,45.0,Bachelor,5-10,20-99,Backend Development
+Beijing,8.0,Bachelor,unlimited,100-499,Others
+Beijing,37.0,Master,3-5,over 10000+,AI & Analytics
+Beijing,30.0,Bachelor,3-5,20-99,AI & Analytics
+Beijing,4.0,Associate,unlimited,20-99,System Admin
+Beijing,34.0,Bachelor,3-5,1000-9999,System Admin
+Beijing,40.0,Bachelor,3-5,1000-9999,Others
+Beijing,22.0,Master,3-5,20-99,AI & Analytics
+Beijing,10.0,Unlimited,1-3,20-99,Backend Development
+Beijing,10.0,Bachelor,1-3,20-99,Backend Development
+Beijing,22.0,Master,1-3,100-499,Others
+Beijing,16.0,Unlimited,3-5,100-499,Backend Development
+Beijing,15.0,Bachelor,3-5,20-99,Backend Development
+Beijing,9.0,Associate,1-3,0-20,Backend Development
+Beijing,45.0,Bachelor,1-3,over 10000+,AI & Analytics
+Beijing,15.0,Bachelor,3-5,1000-9999,AI & Analytics
+Beijing,45.0,Bachelor,3-5,100-499,AI & Analytics
+Beijing,25.0,Bachelor,3-5,0-20,Frontend Development
+Beijing,32.0,Bachelor,3-5,0-20,Frontend Development
+Beijing,65.0,Bachelor,5-10,0-20,Others
+Beijing,45.0,Master,unlimited,over 10000+,AI & Analytics
+Beijing,12.0,Associate,3-5,100-499,Others
+Beijing,5.0,Bachelor,unlimited,0-20,AI & Analytics
+Beijing,20.0,Bachelor,3-5,0-20,Frontend Development
+Beijing,37.0,Bachelor,3-5,1000-9999,Others
+Beijing,20.0,Master,5-10,20-99,Others
+Beijing,37.0,Bachelor,5-10,1000-9999,Backend Development
+Beijing,17.0,Bachelor,3-5,20-99,Backend Development
+Beijing,27.0,Bachelor,5-10,1000-9999,System Admin
+Beijing,12.0,Bachelor,1-3,100-499,Frontend Development
+Beijing,22.0,Bachelor,1-3,20-99,Backend Development
+Beijing,8.0,Bachelor,1-3,20-99,Backend Development
+Beijing,30.0,Bachelor,3-5,20-99,Backend Development
+Beijing,10.0,Bachelor,1-3,100-499,System Admin
+Beijing,12.0,Bachelor,1-3,100-499,Backend Development
+Beijing,11.0,Bachelor,1-3,20-99,Backend Development
+Beijing,11.0,Associate,1-3,20-99,Backend Development
+Beijing,10.0,Bachelor,unlimited,1000-9999,Backend Development
+Beijing,21.0,Associate,5-10,100-499,Frontend Development
+Beijing,9.0,Bachelor,unlimited,100-499,System Admin
+Beijing,15.0,Associate,5-10,500-999,System Admin
+Beijing,45.0,Bachelor,3-5,100-499,AI & Analytics
+Beijing,22.0,Bachelor,5-10,20-99,Backend Development
+Beijing,15.0,Bachelor,3-5,0-20,Backend Development
+Beijing,37.0,Master,1-3,100-499,AI & Analytics
+Beijing,16.0,Bachelor,1-3,20-99,AI & Analytics
+Beijing,24.0,Bachelor,5-10,20-99,Backend Development
+Beijing,22.0,Bachelor,3-5,100-499,Others
+Beijing,14.0,Associate,3-5,20-99,Backend Development
+Beijing,23.0,Master,1-3,100-499,Others
+Beijing,30.0,Bachelor,1-3,20-99,Backend Development
+Beijing,17.0,Bachelor,3-5,100-499,System Admin
+Beijing,65.0,Master,5-10,100-499,AI & Analytics
+Beijing,37.0,Master,3-5,over 10000+,Others
+Beijing,19.0,Bachelor,unlimited,100-499,Others
+Beijing,15.0,Bachelor,1-3,20-99,Backend Development
+Beijing,40.0,Bachelor,3-5,20-99,Backend Development
+Beijing,40.0,Bachelor,5-10,over 10000+,AI & Analytics
+Beijing,26.0,Bachelor,3-5,0-20,Others
+Beijing,37.0,Bachelor,3-5,100-499,Others
+Beijing,7.0,Associate,unlimited,20-99,System Admin
+Beijing,10.0,Bachelor,unlimited,20-99,AI & Analytics
+Beijing,26.0,Bachelor,5-10,1000-9999,System Admin
+Beijing,30.0,Bachelor,5-10,1000-9999,System Admin
+Beijing,22.0,Bachelor,1-3,20-99,AI & Analytics
+Beijing,55.0,Bachelor,1-3,20-99,AI & Analytics
+Beijing,15.0,Bachelor,unlimited,100-499,Frontend Development
+Beijing,30.0,Bachelor,5-10,1000-9999,System Admin
+Beijing,21.0,Bachelor,3-5,1000-9999,Backend Development
+Beijing,11.0,Associate,1-3,0-20,Frontend Development
+Beijing,18.0,Associate,unlimited,0-20,Backend Development
+Beijing,16.0,Bachelor,5-10,1000-9999,Backend Development
+Beijing,18.0,Bachelor,3-5,1000-9999,Frontend Development
+Beijing,30.0,Bachelor,3-5,100-499,AI & Analytics
+Beijing,22.0,Bachelor,3-5,500-999,Backend Development
+Beijing,6.0,Associate,1-3,20-99,Others
+Beijing,10.0,Bachelor,1-3,20-99,Backend Development
+Beijing,35.0,Bachelor,5-10,20-99,Frontend Development
+Beijing,27.0,Master,3-5,100-499,AI & Analytics
+Beijing,20.0,Bachelor,1-3,20-99,Others
+Beijing,30.0,Bachelor,3-5,100-499,Backend Development
+Beijing,11.0,Associate,3-5,0-20,Backend Development
+Beijing,12.0,Bachelor,1-3,0-20,Frontend Development
+Beijing,37.0,Unlimited,5-10,100-499,Others
+Beijing,7.0,Bachelor,1-3,0-20,Others
+Beijing,13.0,Bachelor,3-5,500-999,System Admin
+Beijing,42.0,Master,3-5,500-999,AI & Analytics
+Beijing,10.0,Associate,unlimited,20-99,Backend Development
+Beijing,40.0,Bachelor,5-10,1000-9999,AI & Analytics
+Beijing,30.0,Bachelor,5-10,20-99,Backend Development
+Beijing,9.0,Master,1-3,0-20,Others
+Beijing,9.0,Bachelor,unlimited,20-99,Others
+Beijing,50.0,Bachelor,5-10,1000-9999,Backend Development
+Beijing,22.0,Bachelor,3-5,20-99,Frontend Development
+Beijing,17.0,Associate,1-3,1000-9999,System Admin
+Beijing,10.0,Bachelor,1-3,0-20,Backend Development
+Beijing,10.0,Bachelor,unlimited,0-20,Backend Development
+Beijing,37.0,Bachelor,3-5,over 10000+,Others
+Beijing,30.0,Bachelor,3-5,1000-9999,Backend Development
+Beijing,17.0,Bachelor,3-5,100-499,Backend Development
+Beijing,20.0,Bachelor,1-3,1000-9999,Backend Development
+Beijing,37.0,Master,3-5,1000-9999,AI & Analytics
+Beijing,20.0,Master,3-5,20-99,AI & Analytics
+Beijing,12.0,Master,unlimited,100-499,AI & Analytics
+Beijing,16.0,Unlimited,unlimited,20-99,Others
+Beijing,18.0,Bachelor,5-10,1000-9999,Backend Development
+Beijing,20.0,Bachelor,3-5,500-999,System Admin
+Shenzhen,24.0,Bachelor,unlimited,1000-9999,AI & Analytics
+Shenzhen,18.0,Bachelor,5-10,over 10000+,Backend Development
+Shenzhen,45.0,Bachelor,5-10,over 10000+,Others
+Shenzhen,20.0,Bachelor,3-5,20-99,Others
+Shenzhen,30.0,Bachelor,unlimited,over 10000+,Frontend Development
+Shenzhen,37.0,Unlimited,unlimited,20-99,Others
+Shenzhen,32.0,Bachelor,5-10,100-499,Others
+Shenzhen,10.0,Bachelor,1-3,100-499,Backend Development
+Shenzhen,22.0,Unlimited,3-5,100-499,Backend Development
+Shenzhen,18.0,Bachelor,5-10,over 10000+,Others
+Shenzhen,27.0,Bachelor,5-10,100-499,AI & Analytics
+Shenzhen,37.0,Bachelor,3-5,over 10000+,Frontend Development
+Shenzhen,6.0,Bachelor,unlimited,1000-9999,AI & Analytics
+Shenzhen,45.0,Bachelor,3-5,over 10000+,Backend Development
+Shenzhen,12.0,Associate,1-3,100-499,Backend Development
+Shenzhen,7.0,Unlimited,1-3,1000-9999,System Admin
+Shenzhen,12.0,Bachelor,1-3,20-99,Backend Development
+Shenzhen,26.0,Bachelor,5-10,500-999,Others
+Shenzhen,10.0,Associate,3-5,20-99,Frontend Development
+Shenzhen,27.0,Bachelor,5-10,0-20,Backend Development
+Shenzhen,25.0,Bachelor,3-5,100-499,Others
+Shenzhen,19.0,Bachelor,3-5,20-99,Frontend Development
+Shenzhen,26.0,Bachelor,3-5,20-99,Backend Development
+Shenzhen,16.0,Associate,1-3,20-99,Backend Development
+Shenzhen,7.0,Associate,unlimited,0-20,System Admin
+Shenzhen,16.0,Bachelor,1-3,1000-9999,Backend Development
+Shenzhen,15.0,Bachelor,3-5,500-999,Others
+Shenzhen,13.0,Unlimited,1-3,0-20,Backend Development
+Shenzhen,75.0,Master,5-10,20-99,Backend Development
+Shenzhen,8.0,Associate,1-3,20-99,Others
+Shenzhen,10.0,Associate,1-3,0-20,Backend Development
+Shenzhen,20.0,Bachelor,3-5,1000-9999,Others
+Shenzhen,18.0,Bachelor,5-10,20-99,Backend Development
+Shenzhen,20.0,Bachelor,3-5,20-99,Backend Development
+Shenzhen,29.0,Bachelor,1-3,over 10000+,Others
+Shenzhen,7.0,Associate,1-3,20-99,Backend Development
+Shenzhen,16.0,Associate,1-3,20-99,Backend Development
+Shenzhen,10.0,Associate,3-5,20-99,System Admin
+Shenzhen,16.0,Bachelor,1-3,20-99,Frontend Development
+Shenzhen,27.0,Bachelor,5-10,1000-9999,Others
+Shenzhen,11.0,Associate,unlimited,0-20,Backend Development
+Shenzhen,30.0,Bachelor,unlimited,over 10000+,Backend Development
+Shenzhen,45.0,Unlimited,unlimited,100-499,Frontend Development
+Shenzhen,15.0,Bachelor,5-10,20-99,Others
+Shenzhen,20.0,Bachelor,unlimited,1000-9999,Frontend Development
+Shenzhen,12.0,Unlimited,unlimited,100-499,Others
+Shenzhen,30.0,Bachelor,5-10,500-999,Backend Development
+Shenzhen,32.0,Bachelor,3-5,1000-9999,System Admin
+Shenzhen,13.0,Bachelor,3-5,20-99,Backend Development
+Shenzhen,9.0,Associate,unlimited,100-499,AI & Analytics
+Shenzhen,20.0,Bachelor,5-10,0-20,AI & Analytics
+Shenzhen,20.0,Associate,3-5,100-499,Others
+Shenzhen,9.0,Bachelor,3-5,0-20,Backend Development
+Shenzhen,8.0,Associate,1-3,over 10000+,System Admin
+Shenzhen,9.0,Associate,1-3,1000-9999,Backend Development
+Shenzhen,5.0,Bachelor,1-3,20-99,Backend Development
+Shenzhen,9.0,Bachelor,1-3,20-99,Others
+Shenzhen,9.0,Associate,unlimited,20-99,System Admin
+Shenzhen,12.0,Bachelor,1-3,0-20,Frontend Development
+Shenzhen,23.0,Bachelor,unlimited,100-499,AI & Analytics
+Shenzhen,22.0,Bachelor,3-5,0-20,Backend Development
+Shenzhen,32.0,Bachelor,5-10,1000-9999,Others
+Shenzhen,35.0,Bachelor,5-10,over 10000+,AI & Analytics
+Shenzhen,15.0,Bachelor,1-3,0-20,Backend Development
+Shenzhen,21.0,Bachelor,3-5,20-99,Others
+Shenzhen,7.0,Associate,unlimited,20-99,Frontend Development
+Shenzhen,17.0,Associate,5-10,0-20,Backend Development
+Shenzhen,30.0,Bachelor,1-3,over 10000+,Backend Development
+Shenzhen,24.0,Bachelor,3-5,1000-9999,Backend Development
+Shenzhen,12.0,Bachelor,unlimited,100-499,Backend Development
+Shenzhen,12.0,Bachelor,1-3,20-99,Backend Development
+Shenzhen,16.0,Unlimited,3-5,20-99,Backend Development
+Shenzhen,25.0,Bachelor,1-3,100-499,Backend Development
+Shenzhen,18.0,Bachelor,3-5,100-499,Backend Development
+Shenzhen,16.0,Bachelor,3-5,500-999,AI & Analytics
+Shenzhen,15.0,Unlimited,unlimited,0-20,Backend Development
+Shenzhen,12.0,Bachelor,3-5,20-99,Others
+Shenzhen,7.0,Unlimited,unlimited,0-20,System Admin
+Shenzhen,27.0,Bachelor,5-10,100-499,Others
+Shenzhen,20.0,Bachelor,1-3,100-499,Backend Development
+Shenzhen,30.0,Bachelor,1-3,over 10000+,Others
+Shenzhen,35.0,Bachelor,5-10,100-499,Backend Development
+Shenzhen,3.0,Unlimited,unlimited,0-20,Frontend Development
+Shenzhen,12.0,Associate,1-3,20-99,Frontend Development
+Shenzhen,14.0,Bachelor,3-5,500-999,Frontend Development
+Shenzhen,35.0,Bachelor,3-5,1000-9999,System Admin
+Shenzhen,22.0,Bachelor,1-3,over 10000+,Backend Development
+Shenzhen,50.0,Bachelor,5-10,500-999,Backend Development
+Shenzhen,25.0,Bachelor,1-3,0-20,AI & Analytics
+Shenzhen,17.0,Unlimited,unlimited,0-20,Backend Development
+Shenzhen,12.0,Bachelor,3-5,0-20,Backend Development
+Shenzhen,23.0,Bachelor,unlimited,over 10000+,Backend Development
+Shenzhen,16.0,Bachelor,1-3,100-499,Others
+Shenzhen,6.0,Associate,unlimited,20-99,Backend Development
+Shenzhen,22.0,Bachelor,3-5,0-20,Backend Development
+Shenzhen,30.0,Bachelor,3-5,over 10000+,Others
+Shenzhen,17.0,Bachelor,3-5,100-499,Frontend Development
+Shenzhen,6.0,Associate,1-3,500-999,System Admin
+Shenzhen,12.0,Bachelor,1-3,20-99,Backend Development
+Shenzhen,12.0,Bachelor,unlimited,0-20,Others
+Shenzhen,35.0,Bachelor,5-10,1000-9999,Others
+Shenzhen,12.0,Associate,3-5,20-99,Backend Development
+Shenzhen,30.0,Master,unlimited,1000-9999,AI & Analytics
+Shenzhen,7.0,Bachelor,1-3,20-99,Backend Development
+Shenzhen,15.0,Bachelor,1-3,0-20,Backend Development
+Shenzhen,22.0,Bachelor,unlimited,0-20,Others
+Shenzhen,18.0,Bachelor,3-5,100-499,Frontend Development
+Shenzhen,19.0,Bachelor,1-3,100-499,Backend Development
+Shenzhen,37.0,Bachelor,5-10,over 10000+,Backend Development
+Shenzhen,35.0,Bachelor,5-10,over 10000+,Backend Development
+Shenzhen,30.0,Bachelor,5-10,over 10000+,Others
+Shenzhen,12.0,Bachelor,1-3,20-99,Frontend Development
+Shenzhen,22.0,Bachelor,unlimited,1000-9999,Backend Development
+Shenzhen,13.0,Bachelor,3-5,over 10000+,Frontend Development
+Shenzhen,40.0,Bachelor,5-10,over 10000+,Others
+Shenzhen,40.0,Bachelor,5-10,20-99,Backend Development
+Shenzhen,17.0,Bachelor,3-5,over 10000+,AI & Analytics
+Shenzhen,45.0,Bachelor,5-10,over 10000+,AI & Analytics
+Shenzhen,11.0,Bachelor,1-3,0-20,Others
+Shenzhen,45.0,Bachelor,3-5,over 10000+,Backend Development
+Shenzhen,10.0,Bachelor,1-3,100-499,Backend Development
+Shenzhen,16.0,Bachelor,3-5,1000-9999,Backend Development
+Shenzhen,15.0,Associate,3-5,0-20,Frontend Development
+Shenzhen,12.0,Bachelor,1-3,20-99,Backend Development
+Shenzhen,16.0,Bachelor,3-5,500-999,Others
+Shenzhen,24.0,Bachelor,3-5,1000-9999,Others
+Shenzhen,15.0,Master,1-3,100-499,Others
+Shenzhen,22.0,Associate,unlimited,100-499,Backend Development
+Shenzhen,8.0,Bachelor,1-3,20-99,Frontend Development
+Shenzhen,30.0,Bachelor,3-5,0-20,AI & Analytics
+Shenzhen,24.0,Associate,3-5,100-499,Backend Development
+Shenzhen,20.0,Bachelor,5-10,20-99,Backend Development
+Shenzhen,12.0,Unlimited,unlimited,20-99,Others
+Shenzhen,18.0,Bachelor,3-5,1000-9999,System Admin
+Shenzhen,17.0,Bachelor,1-3,100-499,System Admin
+Shenzhen,30.0,Master,unlimited,20-99,AI & Analytics
+Shenzhen,27.0,Associate,5-10,0-20,Backend Development
+Shenzhen,15.0,Unlimited,3-5,1000-9999,Backend Development
+Shenzhen,18.0,Bachelor,5-10,20-99,Backend Development
+Shenzhen,24.0,Bachelor,5-10,1000-9999,Backend Development
+Shenzhen,15.0,Bachelor,5-10,0-20,AI & Analytics
+Shenzhen,35.0,Bachelor,5-10,500-999,Backend Development
+Shenzhen,8.0,Associate,unlimited,1000-9999,Backend Development
+Shenzhen,2.0,Associate,unlimited,20-99,Backend Development
+Shenzhen,5.0,Associate,1-3,20-99,AI & Analytics
+Shenzhen,22.0,Master,3-5,100-499,AI & Analytics
+Shenzhen,12.0,Bachelor,1-3,0-20,Frontend Development
+Shenzhen,10.0,Bachelor,unlimited,20-99,Others
+Shenzhen,30.0,Bachelor,5-10,20-99,Backend Development
+Shenzhen,16.0,Unlimited,3-5,20-99,System Admin
+Shenzhen,19.0,Associate,3-5,20-99,Backend Development
+Shenzhen,8.0,Bachelor,unlimited,100-499,Others
+Shenzhen,12.0,Associate,3-5,100-499,Backend Development
+Shenzhen,,Associate,3-5,20-99,Others
+Shenzhen,10.0,Bachelor,3-5,20-99,System Admin
+Shenzhen,7.0,Unlimited,unlimited,0-20,System Admin
+Shenzhen,17.0,Bachelor,3-5,1000-9999,Backend Development
+Shenzhen,16.0,Bachelor,unlimited,20-99,Backend Development
+Shenzhen,21.0,Bachelor,3-5,20-99,Backend Development
+Shenzhen,22.0,Bachelor,3-5,500-999,Others
+Shenzhen,12.0,Associate,1-3,500-999,System Admin
+Shenzhen,10.0,Bachelor,1-3,500-999,System Admin
+Shenzhen,18.0,Bachelor,1-3,100-499,Backend Development
+Shenzhen,8.0,Associate,1-3,100-499,System Admin
+Shenzhen,21.0,Bachelor,3-5,20-99,Frontend Development
+Shenzhen,16.0,Associate,1-3,20-99,Backend Development
+Shenzhen,12.0,Bachelor,1-3,20-99,Backend Development
+Shenzhen,32.0,Bachelor,5-10,20-99,Backend Development
+Shenzhen,14.0,Associate,3-5,0-20,Frontend Development
+Shenzhen,26.0,Bachelor,unlimited,100-499,Others
+Shenzhen,24.0,Unlimited,3-5,20-99,Frontend Development
+Shenzhen,12.0,Associate,1-3,20-99,Others
+Shenzhen,16.0,Bachelor,3-5,20-99,Backend Development
+Shenzhen,2.0,Bachelor,1-3,1000-9999,AI & Analytics
+Shenzhen,9.0,Bachelor,unlimited,100-499,Frontend Development
+Shenzhen,22.0,Bachelor,3-5,100-499,AI & Analytics
+Shenzhen,7.0,Unlimited,unlimited,0-20,System Admin
+Shenzhen,12.0,Bachelor,1-3,500-999,Frontend Development
+Shenzhen,6.0,Associate,1-3,0-20,Frontend Development
+Shenzhen,25.0,Bachelor,3-5,20-99,Backend Development
+Shenzhen,26.0,Bachelor,1-3,over 10000+,Backend Development
+Shenzhen,17.0,Bachelor,5-10,1000-9999,Others
+Shenzhen,7.0,Bachelor,unlimited,100-499,Backend Development
+Shenzhen,12.0,Bachelor,1-3,100-499,Backend Development
+Shenzhen,15.0,Associate,3-5,0-20,Backend Development
+Shenzhen,30.0,Bachelor,5-10,over 10000+,Backend Development
+Shenzhen,15.0,Bachelor,3-5,20-99,Others
+Shenzhen,12.0,Bachelor,1-3,0-20,Backend Development
+Shenzhen,37.0,Bachelor,3-5,100-499,Backend Development
+Shenzhen,10.0,Bachelor,1-3,20-99,Others
+Shenzhen,30.0,Bachelor,3-5,over 10000+,Frontend Development
+Shenzhen,10.0,Bachelor,unlimited,0-20,Backend Development
+Shenzhen,32.0,Bachelor,3-5,over 10000+,Others
+Shenzhen,30.0,Bachelor,3-5,100-499,Backend Development
+Shenzhen,9.0,Bachelor,1-3,20-99,Backend Development
+Shenzhen,45.0,Bachelor,5-10,20-99,Backend Development
+Shenzhen,19.0,Associate,3-5,20-99,Backend Development
+Shenzhen,21.0,Unlimited,unlimited,20-99,Backend Development
+Shenzhen,20.0,Bachelor,unlimited,over 10000+,Others
+Shenzhen,30.0,Bachelor,unlimited,1000-9999,Others
+Shenzhen,21.0,Bachelor,5-10,500-999,Backend Development
+Shenzhen,12.0,Associate,1-3,1000-9999,Backend Development
+Shenzhen,2.0,Associate,unlimited,0-20,Backend Development
+Shenzhen,12.0,Bachelor,1-3,0-20,Backend Development
+Shenzhen,16.0,Associate,3-5,20-99,Backend Development
+Shenzhen,9.0,Bachelor,1-3,20-99,Frontend Development
+Shenzhen,7.0,Bachelor,1-3,100-499,AI & Analytics
+Shenzhen,15.0,Bachelor,1-3,20-99,Backend Development
+Shenzhen,9.0,Associate,1-3,500-999,Others
+Shenzhen,27.0,Bachelor,3-5,100-499,Backend Development
+Shenzhen,15.0,Bachelor,1-3,20-99,Backend Development
+Shenzhen,20.0,Associate,5-10,100-499,Backend Development
+Shenzhen,55.0,Master,3-5,100-499,AI & Analytics
+Shenzhen,25.0,Bachelor,5-10,100-499,Backend Development
+Shenzhen,8.0,Unlimited,1-3,20-99,System Admin
+Shenzhen,20.0,Bachelor,3-5,20-99,Frontend Development
+Shenzhen,17.0,Bachelor,3-5,20-99,Backend Development
+Shenzhen,22.0,Bachelor,3-5,20-99,Backend Development
+Shenzhen,26.0,Bachelor,3-5,20-99,Backend Development
+Shenzhen,32.0,Bachelor,3-5,100-499,AI & Analytics
+Shenzhen,17.0,Bachelor,5-10,1000-9999,Others
+Shenzhen,27.0,Bachelor,3-5,100-499,AI & Analytics
+Shenzhen,17.0,Associate,5-10,20-99,Backend Development
+Shenzhen,10.0,Bachelor,1-3,0-20,AI & Analytics
+Shenzhen,22.0,Bachelor,3-5,20-99,Backend Development
+Shenzhen,12.0,Bachelor,1-3,20-99,Backend Development
+Shenzhen,18.0,Associate,3-5,20-99,Backend Development
+Shenzhen,27.0,Bachelor,3-5,100-499,Others
+Shenzhen,15.0,Bachelor,3-5,20-99,System Admin
+Shenzhen,17.0,Bachelor,5-10,20-99,Backend Development
+Shenzhen,25.0,Associate,5-10,100-499,AI & Analytics
+Shenzhen,12.0,Associate,1-3,0-20,Frontend Development
+Shenzhen,12.0,Bachelor,1-3,20-99,System Admin
+Shenzhen,20.0,Bachelor,1-3,0-20,AI & Analytics
+Shenzhen,8.0,Associate,unlimited,20-99,Backend Development
+Shenzhen,15.0,Bachelor,1-3,20-99,Others
+Shenzhen,7.0,Associate,1-3,20-99,Backend Development
+Shenzhen,17.0,Bachelor,3-5,0-20,Backend Development
+Shenzhen,30.0,Bachelor,3-5,500-999,Backend Development
+Shenzhen,32.0,Bachelor,5-10,100-499,Frontend Development
+Shenzhen,17.0,Bachelor,3-5,0-20,Others
+Shenzhen,12.0,Associate,1-3,0-20,Backend Development
+Shenzhen,40.0,Bachelor,3-5,over 10000+,Backend Development
+Shenzhen,12.0,Associate,1-3,20-99,Others
+Shenzhen,15.0,Unlimited,1-3,20-99,Others
+Shenzhen,33.0,Master,1-3,20-99,AI & Analytics
+Shenzhen,5.0,Associate,1-3,100-499,System Admin
+Shenzhen,11.0,Associate,3-5,0-20,Frontend Development
+Shenzhen,18.0,Bachelor,3-5,100-499,AI & Analytics
+Shenzhen,12.0,Bachelor,1-3,100-499,Backend Development
+Shenzhen,22.0,Bachelor,3-5,1000-9999,Backend Development
+Shenzhen,22.0,Bachelor,3-5,1000-9999,Backend Development
+Shenzhen,20.0,Bachelor,3-5,20-99,Backend Development
+Shenzhen,11.0,Bachelor,3-5,100-499,Backend Development
+Shenzhen,6.0,Associate,unlimited,20-99,Backend Development
+Shenzhen,12.0,Associate,1-3,0-20,System Admin
+Shenzhen,10.0,Bachelor,3-5,20-99,System Admin
+Shenzhen,25.0,Associate,5-10,20-99,Backend Development
+Shenzhen,27.0,Bachelor,5-10,100-499,Backend Development
+Shenzhen,21.0,Associate,1-3,over 10000+,Others
+Shenzhen,30.0,Bachelor,3-5,100-499,Backend Development
+Shenzhen,42.0,Bachelor,5-10,20-99,Others
+Shenzhen,21.0,Associate,1-3,20-99,Backend Development
+Shenzhen,22.0,Bachelor,3-5,20-99,Backend Development
+Shenzhen,14.0,Associate,3-5,500-999,Backend Development
+Shenzhen,16.0,Bachelor,1-3,20-99,Frontend Development
